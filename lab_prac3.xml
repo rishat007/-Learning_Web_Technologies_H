@@ -1,0 +1,36 @@
+<Information_Details>
+ <Information>
+   <id>1</id>
+   <name>Jhon Doe</name>
+   <Address>
+     <house>38</house>
+     <Road>3</Road>
+     <Area>Banani</Area>
+     <City>Dhaka</City>
+    </Address>
+    <Department>Sales</Department>
+ </Information>
+ <Information>
+   <id>2</id>
+   <name>Mark Zuckerberg</name>
+   <Address>
+     <Flat>A1</Flat>
+     <house>20</house>
+     <Road>18</Road>
+     <Area>Mirpur</Area>
+     <City>Dhaka</City>
+    </Address>
+    <Department>Sales</Department>
+</Information>
+<Information>
+   <id>1</id>
+   <name>Jhon Doe</name>
+   <Address>
+     <house>38</house>
+     <Road>3</Road>
+     <Area>Motijheel</Area>
+     <City></City>
+    </Address>
+    <Department>Sales</Department>
+</Information>
+</Information_Details>
