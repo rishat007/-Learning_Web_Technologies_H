@@ -47,7 +47,7 @@
 		<td>	
 			<input type="submit" name="submit" value="Save"></td>
 			<td>	
-			<td align="center"><a href="login.php">Home</a>
+			<td align="center"><a href="bob_prof.php">Home</a>
 		</tr>
 
 	</table>
